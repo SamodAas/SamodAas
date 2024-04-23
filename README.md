@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Freshly finished Turing College Data Analytics bootcamp and looking for new opportunities
+#### Breaking into Data Analytics @ Turing College
 
 ____________________________________________________________
 #### My stack:
