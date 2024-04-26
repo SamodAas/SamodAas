@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### Currently climbing into Data Analytics @ Turing College <img src = https://github.com/SamodAas/SamodAas/blob/main/images/pandas.gif height = '70' />
-
+#### Currently *climbing* into Data Analytics @ Turing College <img src = https://github.com/SamodAas/SamodAas/blob/main/images/pandas.gif height = '70' />
+![Alt text](https://github.com/SamodAas/SamodAas/blob/main/images/climbing.gif)
 ____________________________________________________________
 #### My stack:
 
