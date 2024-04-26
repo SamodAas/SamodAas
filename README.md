@@ -9,12 +9,9 @@
 * [Credit loan risk calculation using logistic regression](https://github.com/SamodAas/Credit-loan-risk-calculation) - 2 approaches (standard and F-IRB) of calculating capital requirements for banks making mortgage loans  
 * [Cohort analyses](https://github.com/SamodAas/Cohort-analyses.-CLV-and-retention-) - CLV (Customer Lifetime Value) and retention analyses using cohorts
 
-#### Hobbies:
-* Climbing
-* Hiking
-* Cycling
-* Gym
+
+<img src = https://github.com/SamodAas/SamodAas/blob/main/images/bouldering.png height = '30'/><img src = https://github.com/SamodAas/SamodAas/blob/main/images/tent.png height = '30'/><img src = https://github.com/SamodAas/SamodAas/blob/main/images/trekking.png height = '30'/><img src = https://github.com/SamodAas/SamodAas/blob/main/images/bicycle.png height = '30'/>
 ____________________________________________________________
-#### My stack:
+### My stack:
 
 <img src = https://github.com/SamodAas/SamodAas/blob/main/images/tableau.png height = '40' /><img src = https://github.com/SamodAas/SamodAas/blob/main/images/python.png height = '40' /><img src = https://github.com/SamodAas/SamodAas/blob/main/images/sheets.jpeg height = '40' /><img src = https://github.com/SamodAas/SamodAas/blob/main/images/sql.png height = '40' /><img src = https://github.com/SamodAas/SamodAas/blob/main/images/pandas.png height = '40' /><img src = https://github.com/SamodAas/SamodAas/blob/main/images/powerbi.jpeg height = '40' /><img src = https://github.com/SamodAas/SamodAas/blob/main/images/vscode.png height = '40'/>
