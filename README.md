@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Breaking into Data Analytics @ Turing College
+#### Currently climbing into Data Analytics @ Turing College <img src = https://github.com/SamodAas/SamodAas/blob/main/images/pandas.gif height = '70' />
 
 ____________________________________________________________
 #### My stack:
