@@ -10,7 +10,7 @@
 * [Cohort analyses](https://github.com/SamodAas/Cohort-analyses.-CLV-and-retention-) - CLV (Customer Lifetime Value) and retention analyses using cohorts
 
 #### Hobbies  
-<img src = https://github.com/SamodAas/SamodAas/blob/main/images/bouldering.png height = '30'/><img src = https://github.com/SamodAas/SamodAas/blob/main/images/tent.png height = '30'/><img src = https://github.com/SamodAas/SamodAas/blob/main/images/trekking.png height = '30'/><img src = https://github.com/SamodAas/SamodAas/blob/main/images/bicycle.png height = '30'/>
+<img src = https://github.com/SamodAas/SamodAas/blob/main/images/bouldering.png height = '30'/><img src = https://github.com/SamodAas/SamodAas/blob/main/images/tent.png height = '30'/><img src = https://github.com/SamodAas/SamodAas/blob/main/images/playground.png height = '30'/><img src = https://github.com/SamodAas/SamodAas/blob/main/images/bicycle.png height = '30'/>
 ____________________________________________________________
 ### My stack:
 
